@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="350" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen0909&label=Profile%20views&color=0e75b6&style=flat" alt="ashen0909" /> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🧑🏽‍💻 I’m work at **MEXXAR**
 
-- 🌱 I’m currently learning **Android,Learn React Centre for Open& Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
+- 🌱 I’m currently learning **Android,Learn React Centre for Open & Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
 - 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL,KOTLIN,PYTHON**
 
